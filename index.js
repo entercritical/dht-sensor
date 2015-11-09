@@ -1,4 +1,4 @@
 var dht = require('bindings')('dht-sensor');
 
-export.read = dht.read;
+exports.read = dht.read;
 
