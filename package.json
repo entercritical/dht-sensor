@@ -1,0 +1,22 @@
+{
+  "name": "dht-sensor",
+  "version": "0.0.1",
+  "description": "node.js module to read the DHT series of humidity and temperature sensors on a Raspberry Pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entercritical/dht-sensor.git"
+  },
+  "keywords": [
+    "dht"
+  ],
+  "author": "Suhwan Hwang <entercritical@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/entercritical/dht-sensor/issues"
+  },
+  "homepage": "https://github.com/entercritical/dht-sensor#readme"
+}
