@@ -1,6 +1,6 @@
 {
   "name": "dht-sensor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node.js module to read the DHT series of humidity and temperature sensors on a Raspberry Pi.",
   "main": "index.js",
   "scripts": {
